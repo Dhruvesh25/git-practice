@@ -63,3 +63,5 @@ function updateLS() {
 
     localStorage.setItem('todos', JSON.stringify(todos))
 }
+
+console.log('Version 2');
